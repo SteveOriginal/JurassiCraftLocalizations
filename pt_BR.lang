@@ -1,0 +1,442 @@
+//Tabs ==================================================
+itemGroup.jurassicraft.items=JurassiCraft Itens
+itemGroup.jurassicraft.blocks=JurassiCraft Blocos
+itemGroup.jurassicraft.eggs=JurassiCraft Ovos
+itemGroup.jurassicraft.spawnEggs=JurassiCraft Ovos de invocação
+itemGroup.jurassicraft.dna=JurassiCraft DNA
+itemGroup.jurassicraft.foods=JurassiCraft Alimentos
+itemGroup.jurassicraft.plants=JurassiCraft Plantas
+itemGroup.jurassicraft.fossils=JurassiCraft Fósseis
+itemGroup.jurassicraft.dino_bones=JurassiCraft Ossos
+itemGroup.jurassicraft.decorations=JurassiCraft Decorações
+
+//Entities ==================================================
+entity.jurassicraft.velociraptor.name=Velociraptor
+entity.jurassicraft.spinosaurus.name=Espinossauro
+entity.jurassicraft.rugops.name=Rugops
+entity.jurassicraft.indominus.name=Indominus
+entity.jurassicraft.tyrannosaurus.name=Tiranossauro
+entity.jurassicraft.stegosaurus.name=Estegossauro
+entity.jurassicraft.achillobator.name=Achillobator
+entity.jurassicraft.carnotaurus.name=Carnotauro
+entity.jurassicraft.giganotosaurus.name=Giganotossauro
+entity.jurassicraft.majungasaurus.name=Majungassauro
+entity.jurassicraft.compsognathus.name=Compsognathus
+entity.jurassicraft.dilophosaurus.name=Dilofossauro
+entity.jurassicraft.gallimimus.name=Galimimo
+entity.jurassicraft.parasaurolophus.name=Parassaurolofo
+entity.jurassicraft.ankylosaurus.name=Anquilossauro
+entity.jurassicraft.segisaurus.name=Segissauro
+entity.jurassicraft.pteranodon.name=Pteranodonte
+entity.jurassicraft.triceratops.name=Tricerátopo
+entity.jurassicraft.coelacanth.name=Celacanto
+entity.jurassicraft.brachiosaurus.name=Braquiossauro
+entity.jurassicraft.dunkleosteus.name=Dunkleosteus
+entity.jurassicraft.hypsilophodon.name=Hipsilofodonte
+entity.jurassicraft.dodo.name=Dodô
+entity.jurassicraft.charlie.name=Charlie
+entity.jurassicraft.delta.name=Delta
+entity.jurassicraft.blue.name=Blue
+entity.jurassicraft.echo.name=Echo
+entity.jurassicraft.leptictidium.name=Leptictidium
+entity.jurassicraft.microceratus.name=Microceratus
+entity.jurassicraft.oviraptor.name=Oviraptor
+entity.jurassicraft.apatosaurus.name=Apatossauro
+entity.jurassicraft.othnielia.name=Othnielia
+entity.jurassicraft.dimorphodon.name=Dimorphodon
+entity.jurassicraft.tylosaurus.name=Tilossauro
+entity.jurassicraft.ludodactylus.name=Ludodactylus
+entity.jurassicraft.protoceratops.name=Protocerátopo
+entity.jurassicraft.tropeognathus.name=Tropeognathus
+entity.jurassicraft.leaellynasaura.name=Leaellynasaura
+entity.jurassicraft.herrerasaurus.name=Herrerassauro
+entity.jurassicraft.therizinosaurus.name=Terizinossauro
+entity.jurassicraft.megapiranha.name=Megapiranha
+entity.jurassicraft.baryonyx.name=Barionix
+entity.jurassicraft.cearadactylus.name=Cearadáctilo
+entity.jurassicraft.mamenchisaurus.name=Mamenquissauro
+entity.jurassicraft.chasmosaurus.name=Chasmossauro
+entity.jurassicraft.corythosaurus.name=Coritossauro
+entity.jurassicraft.edmontosaurus.name=Edmontossauro
+entity.jurassicraft.lambeosaurus.name=Lambeossauro
+entity.jurassicraft.metriacanthosaurus.name=Metriacantossauro
+entity.jurassicraft.moganopterus.name=Moganopterus
+entity.jurassicraft.ornithomimus.name=Ornitomimo
+entity.jurassicraft.zhenyuanopterus.name=Zhenyuanopterus
+entity.jurassicraft.troodon.name=Troodonte
+entity.jurassicraft.pachycephalosaurus.name=Paquicefalossauro
+
+//Items ==================================================
+item.plaster_and_bandage.name=Yeso y Vendaje
+
+item.attraction_sign.name={type} Cartel de atracción
+attraction_sign.aquarium.name=Aquario
+attraction_sign.aquarium_coral.name=Aquario con coral
+attraction_sign.aviary.name=Aviario
+attraction_sign.aviary_plants.name=Aviario con plantas
+attraction_sign.gallimimus_valley.name=Valle de los Gallimimus
+attraction_sign.gallimimus_valley_plants.name=Valle de los Gallimimus con plantas
+attraction_sign.gentle_giants.name=Gigantes mansos
+attraction_sign.gentle_giants_plants.name=Gigantes mansos con plantas
+attraction_sign.raptor_paddock.name=Cercado del Velociraptor
+attraction_sign.raptor_paddock_plants.name=Cercado del Velociraptor con plantas
+
+item.skull_fresh.name=Calavera fresca de {dino}
+item.tooth_fresh.name=Diente fresco de {dino}
+item.anal_fin_fresh.name=Aleta anla fresca de {dino}
+item.shoulders_fresh.name=Hombros frescos de {dino}
+item.ribcage_fresh.name=Caja torácica fresca{dino}
+item.foot_bones_fresh.name=Huesos de los pies frescos de {dino}
+item.tail_fluke_fresh.name=Aleta caudal fresca de {dino}
+item.armor_plating_fresh.name=Placa de armadura fresca de {dino}
+item.ribs_and_spine_fresh.name=Costillas y columna frescas de {dino}
+item.neck_vertebrae_fresh.name=Vértebras del cuello frescas de {dino}
+item.pelvis_fresh.name=Pelvis fresca de {dino}
+item.shoulder_blade_fresh.name=Omóplato fresco de {dino}
+item.cheek_teeth_fresh.name=Muelas frescas de {dino}
+item.tail_vertebrae_fresh.name=Vértebras de la cola frescas de {dino}
+item.second_dorsal_fin_fresh.name=Segunda aleta dorsal fresca de {dino}
+item.pectoral_fin_bones_fresh.name=Huesos frescos de la aleta pectoral de {dino}
+item.inner_teeth_fresh.name=Dientes interiores frescos de {dino}
+item.teeth_fresh.name=Dientes frescos de {dino}
+item.shoulder_fresh.name=Fresh {dino} Shoulder
+item.mouth_plates_fresh.name=Placas bucales frescas de {dino}
+item.hind_flipper_fresh.name=Aleta posterior fresca de {dino}
+item.shoulder_bone_fresh.name=Huesos del hombro frescos de{dino}
+item.hind_leg_bones_fresh.name=Huesos frescos de las patas traseras de {dino}
+item.tail_fresh.name=Cola fresca de {dino}
+item.front_flipper_fresh.name=Aleta frontal fresca de {dino}
+item.spine_fresh.name=Columna vertebral fresca de {dino}
+item.front_leg_bones_fresh.name=Huesos frescos de las patas delanteras de{dino}
+item.neck_fresh.name=Cuello fresco de {dino}
+item.body_fins_fresh.name=Aleta corporal fresca de {dino} 
+item.leg_vertebrae_fresh.name=Fresh {dino} Leg Vertebrae
+item.dorsal_fin_fresh.name=Aleta dorsal fresca de {dino}
+item.claw_fresh.name=Garra fresca de {dino}
+item.tail_club_fresh.name=Mazo de la cola fresco de {dino}
+item.leg_bones_fresh.name=Huesos de las piernas frescos de {dino}
+item.horn_fresh.name=Cuerno fresco de {dino}
+item.pelvic_fin_bones_fresh.name=Huesos frescos de la aleta pélvica de {dino}
+item.thagomizer_fresh.name=Espinas de la cola frescas de {dino}
+item.caudal_fin_fresh.name=Aleta caudal fresca de {dino}
+item.wing_bones_fresh.name=Huesos de las alas frescos de {dino}
+item.arm_bones_fresh.name=Huesos del brazo frescos de {dino}
+item.first_dorsal_fin_fresh.name=Primera aleta dorsal fresca de {dino}
+
+item.skull.name=Calavera de {dino}
+item.tooth.name=Diente de {dino}
+item.anal_fin.name=Aleta anal de {dino}
+item.shoulders.name=Hombros de {dino}
+item.ribcage.name=Caja torácica de {dino}
+item.foot_bones.name=Huesos de los pies de {dino}
+item.tail_fluke.name=Aleta caudal de {dino}
+item.armor_plating.name=Placa de armadura de {dino}
+item.ribs_and_spine.name=Costillas y columna de {dino}
+item.neck_vertebrae.name=Vértebras del cuello de {dino}
+item.pelvis.name=Pelvis de {dino}
+item.shoulder_blade.name=Omóplato de {dino}
+item.cheek_teeth.name=Muelas de {dino}
+item.tail_vertebrae.name=Vértebras de la cola de {dino}
+item.second_dorsal_fin.name=Segunda aleta dorsal de {dino}
+item.pectoral_fin_bones.name=Huesos de la aleta pectoral de {dino}
+item.inner_teeth.name=Dientes interiores de {dino}
+item.teeth.name=Dientes de {dino}
+item.shoulder.name=Hombro de {dino} 
+item.mouth_plates.name=Placas bucales de {dino}
+item.hind_flipper.name=Aleta posterior de {dino}
+item.shoulder_bone.name=Huesos del hombro de {dino}
+item.hind_leg_bones.name=Huesos de las patas traseras de {dino}
+item.tail.name=Cola de {dino}
+item.front_flipper.name=Aleta frontal de {dino}
+item.spine.name=Columna vertebral de {dino}
+item.front_leg_bones.name=Huesos de las patas traseras de {dino}
+item.neck.name=Cuello de {dino}
+item.body_fins.name=Aleta corporal de {dino}
+item.leg_vertebrae.name={dino} Leg Vertebrae
+item.dorsal_fin.name=Aleta dorsal de {dino}
+item.claw.name=Garra de {dino}
+item.tail_club.name=Mazo de la cola de {dino}
+item.leg_bones.name=Huesos de la pierna de {dino}
+item.horn.name=Cuerno de {dino}
+item.pelvic_fin_bones.name=Huesos de la aleta pélvica de {dino}
+item.thagomizer.name=Espinas de la cola de {dino}
+item.caudal_fin.name=Aleta caudal de {dino}
+item.wing_bones.name=Huesos de las alas de {dino}
+item.arm_bones.name=Huesos del brazo de {dino}
+item.first_dorsal_fin.name=Primera aleta dorsal de {dino}
+
+item.dino_egg.name=Huevo de {dino}
+item.hatched_egg.name=Hatched {dino} Egg
+item.dino_spawn_egg.name=Generar {dino}
+item.dinosaur_meat.name=Carne de {dino}
+item.dinosaur_steak.name=Filete de {dino}
+item.dna.name=ADN de {dino}
+item.blue_print.name=Blue Print de {type}
+item.paddock_sign.name=Cartel de cercado
+item.soft_tissue.name=Tejido blando de {dino}
+item.amber.name={stored} en ámbar
+item.petri_dish.name=Placa de Petri
+item.petri_dish_agar.name=Placa de Petri con Agar
+item.empty_test_tube.name=Tubo de ensayo vacío
+item.syringe.name=Jeringuilla de {dino}
+item.empty_syringe.name=Jeringuilla vacía
+item.entity_remover.name=Eliminador de entidades
+item.storage_disc.name=Disco de almacenaje
+item.dna_base_material.name=Nucleotidos de ADN
+item.cage_small.name=Jaula pequeña
+item.plant_dna.name=ADN de {plant}
+item.sea_lamprey.name=Lamprea de mar
+item.iron_blades.name=Aspa de hierro
+item.iron_rod.name=Barrote de hierro
+item.growth_serum.name=Sérum de crecimiento
+item.needle.name=Aguja
+item.plant_cells.name=Células de planta
+item.plant_cells_petri_dish.name=Células de planta en placa de Petri
+item.plant_callus.name=Callo de {plant} 
+item.tracker.name=Implante localizador de dinosaurios
+item.helicopter_spawner.name=Helicoptero
+item.disc_reader.name=Unidad de disco
+item.laser.name=Láser
+item.disc_jurassicraft_theme.name=Disco de JurassiCraft
+item.disc_troodons_and_raptors.name=Disco de JurassiCraft
+item.disc_dont_move_a_muscle.name=Disco de JurassiCraft
+item.action_figure.name=Figura de acción de {dino}
+item.amber_cane.name=Bastón de ámbar
+item.amber_keychain.name=Llavero de ámbar
+item.mr_dna_keychain.name=Llavero de Mr ADN
+item.dino_scanner.name=Escáner de dinosaurios
+item.basic_circuit.name=Circuito básico
+item.advanced_circuit.name=Circuito avanzado
+item.iron_nugget.name=Pepita de hierro
+item.gypsum_powder.name=Polvo de yeso
+item.plant_soft_tissue.name=Tejido blando de {plant}
+item.plant_fossil.name=Fósil de planta
+item.twig_fossil.name=Fósil de rama
+item.keyboard.name=Teclado
+item.computer_screen.name=Pantalla de ordenador
+item.dna_analyzer.name=Analizador de ADN
+item.chilean_sea_bass.name=Lubina chilena
+item.field_guide.name=Guía de campo de InGen
+item.car_chassis.name=Chasis
+item.car_engine_system.name=Sistema de motores
+item.car_seats.name=Asientos de coche
+item.car_tire.name=Neumático
+item.car_windscreen.name=Ventanilla de coche
+item.jeep_wrangler.name=Jeep Wrangler
+item.unfinished_car.name=Coche sin acabar
+
+// Crops ========================================
+item.ajuginucula_smithii_seeds.name=Semillas de Ajuginucula Smithii
+item.ajuginucula_smithii_leaves.name=Hojas de Ajuginucula Smithii
+item.ajuginucula_smithii_oil.name=Aceite de Ajuginucula Smithii
+item.wild_onion.name=Cebolla salvaje
+item.gracilaria.name=Gracilaria
+item.liquid_agar.name=Agar líquido
+
+//Blocks ==================================================
+tile.fossil_block.name=Fósil del {period}
+tile.encased_fossil.name=Fósil revestido del {period}
+tile.plant_fossil_block.name=Fósil de planta
+tile.fossilized_trackway.name=Icnita de {variant}
+tile.amber_ore.name=Mena de ámbar
+tile.ice_shard.name=Mena de cristal de hielo
+tile.moss.name=Musgo
+tile.peat.name=Turba
+tile.peat_moss.name=Musgo de turba
+
+tile.cleaning_station.name=Estación de limpiado
+tile.fossil_grinder.name=Amolador de fósiles
+tile.dna_sequencer.name=Secuenciador de ADN
+tile.dna_synthesizer.name=Sintetizador de ADN
+tile.embryonic_machine.name=Máquina embrionaria
+tile.embryo_calcification_machine.name=Máquina calcificadora de embriones
+tile.incubator.name=Incubadora
+tile.dna_extractor.name=Extractor de ADN
+tile.dna_combinator_hybridizer.name=Combinador-Hibridizador de ADN
+tile.carnivore_feeder.name=Alimentador de carnívoros
+
+tile.gypsum_stone.name=Piedra de yeso
+tile.gypsum_cobblestone.name=Roca de yeso
+tile.gypsum_bricks.name=Ladrillos de yeso
+
+tile.ginkgo_sapling.name=Brote de Ginkgo
+tile.ginkgo_planks.name=Madera de Ginkgo
+tile.ginkgo_log.name=Tronco de Ginkgo
+tile.ginkgo_leaves.name=Hojas de Ginkgo
+tile.ginkgo_stairs.name=Escaleras de Ginkgo
+tile.ginkgo_slab.name=Losas de Ginkgo
+tile.ginkgo_log_petrified.name=Tronco petrificado de Ginkgo
+
+tile.calamites_sapling.name=Brote de Calamites
+tile.calamites_leaves.name=Hojas de Calamites
+tile.calamites_log.name=Tronco de Calamites
+tile.calamites_planks.name=Madera de Calamites
+tile.calamites_stairs.name=Escaleras de Calamites
+tile.calamites_slab.name=Losas de Calamites
+tile.calamites_log_petrified.name=Tronco petrificado de Calamites
+
+tile.small_royal_fern.name=Helecho real pequeño
+tile.small_chain_fern.name=Helecho cadena pequeño
+tile.small_cycad.name=Cícada pequeña
+tile.bennettitalean_cycadeoidea.name=Cicadeoidea
+tile.cry_pansy.name=Pensamiento de Cry
+tile.scaly_tree_fern.name=Helecho escamoso
+tile.cycad_zamites.name=Zamites
+tile.dicksonia.name=Dicksonia
+tile.dicroidium_zuberi.name=Dicroidium Zuberi
+
+tile.reinforced_stone.name=Piedra reforzada
+tile.reinforced_bricks.name=Ladrillos reforzados
+
+tile.cultivate.name=Cultivativadora {color}
+
+tile.clear_glass.name=Cristal claro
+
+tile.feeder.name=Alimentador
+
+trackway.biped_medium.name=Bípedo
+trackway.biped_small.name= Bípido pequeño
+trackway.raptor.name=Raptor
+
+// Crops ========================================
+tile.ajuginucula_smithii.name=Ajuginucula Smithii
+tile.wild_onion_plant.name=Planta de Cebolla salvaje
+tile.gracilaria_seaweed.name=Planta de Gracilaria
+
+//Plants =========================================
+plants.small_royal_fern.name=Helecho real pequeño
+plants.calamites.name=Calamites
+plants.small_chain_fern.name=Helecho cadena pequeño
+plants.small_cycad.name=Cícada pequeña
+plants.ginkgo.name=Ginkgo
+plants.bennettitalean_cycadeoidea.name=Cycadeoidea
+plants.cry_pansy.name=Pensamiento de Cry
+plants.scaly_tree_fern.name=Helecho escamoso
+plants.cycad_zamites.name=Zamites
+plants.dicksonia.name=Dicksonia
+plants.ajuginucula_smithii.name=Ajuginucula Smithii
+plants.wild_onion.name=Cebolla salvaje
+plants.dicroidium_zuberi.name=Dicroidium Zuberi
+
+//Containers ==================================================
+container.cleaning_station=Estación de limpiado
+container.cleaning_station.cleanFossilButton=Fósil limpio
+container.fossil_grinder=Amolador de fósiles
+container.dna_sequencer=Secuenciador de ADN
+container.dna_synthesizer=Sintetizador de ADN
+container.embryonic_machine=Máquina embrionaria
+container.embryo_calcification_machine=Máquina calcificadora de embriones
+container.incubator=Incubadora
+container.dna_extractor=Extractor de ADN
+container.dna_combinator_hybridizer=Combinador-Hibridizador de ADN
+container.dna_combinator=Combinador de ADN
+container.dna_hybridizer=Hibridizador de ADN
+container.cultivator=Cultivadora
+container.cultivator.progress=Progreso
+container.cultivator.cultivating=Cultivando
+container.close.name=Cerrado
+container.feeder=Alimentador
+cultivator.proximates.name=Proximates
+cultivator.minerals.name=Minerales
+cultivator.vitamins.name=Vitaminas
+cultivator.lipids.name=Lípidos
+
+//Others ==================================================
+blue_print.blank.name=En blanco
+lore.dna_quality.name=Calidad del ADN: {quality}%
+lore.baby_dino.name=Agacharse + Click derecho para aparecer un dinosaurio bebé
+lore.genetic_code.name=Código genético: {code}
+lore.dinosaur.name=Dinosaurio: {dino}
+lore.plant.name=Planta: {plant}
+lore.change_gender.name=Click derecho en el aire para cambiar el género
+item.record.jurassicraft_theme.desc=PigeonAce - Melodía de JurassiCraft
+item.record.troodons_and_raptors.desc=PigeonAce - Troodones y Raptores
+item.record.dont_move_a_muscle.desc=PigeonAce - Que nadie mueva un músculo
+
+cage.empty.name=Vacía
+gender.male.name=Macho
+gender.female.name=Hembra
+gender.random.name=Aleatorio
+spawnegg.genderchange.name=Este huevo generará {mode}
+amber.mosquito.name=Mosquito
+amber.aphid.name=Áfido
+
+color.red.name=Rojo
+color.orange.name=Naranja
+color.yellow.name=Amarillo
+color.green.name=Verde
+color.lime.name=Lima
+color.blue.name=Azul
+color.light_blue.name=Azul claro
+color.purple.name=Morado
+color.pink.name=Rosa
+color.magenta.name=Magenta
+color.white.name=Blanco
+color.black.name=Negro
+color.brown.name=Marrón
+color.gray.name=Gris
+color.silver.name=Gris claro
+color.cyan.name=Cian
+
+period.quaternary.name=Cuaternario
+period.neogene.name=Neogeno
+period.paleogene.name=Paleogeno
+period.cretaceous.name=Cretáceo
+period.jurassic.name=Jurásico
+period.triassic.name=Triásico
+period.permian.name=Pérmico
+period.carboniferous.name=Carbonifero
+period.devonian.name=Devónico
+period.silurian.name=Silúrico
+period.ordovician.name=Ordovícico
+period.cambrian.name=Cámbrico
+
+//Achievements ==============================================
+achievement.jurassicraft.mod=JurassiCraft!
+achievement.jurassicraft.mod.desc=Juega con JurassiCraft!
+
+achievement.jurassicraft.paleontology=Paleontología
+achievement.jurassicraft.paleontology.desc=Fabrica yeso y vendaje
+
+achievement.jurassicraft.amber=Insectos antiguos
+achievement.jurassicraft.amber.desc=Mina una mena de ámbar y recibe ámbar
+
+achievement.jurassicraft.fossils=Revestido
+achievement.jurassicraft.fossils.desc=Reviste un fósil con yeso y vendaje
+
+achievement.jurassicraft.cleaningStation=¡Mantenlo limpio!
+achievement.jurassicraft.cleaningStation.desc=Fabrica una estación de limpiado
+
+achievement.jurassicraft.fossilGrinder=Amolando
+achievement.jurassicraft.fossilGrinder.desc=Fabrica una amoladora de fósiles
+
+achievement.jurassicraft.reinforcedStone=¡La seguridad ante todo!
+achievement.jurassicraft.reinforcedStone.desc=Fabrica bloques de piedra reforzada
+
+//Other =============
+message.tame.name=Has amaestrado un {dinosaur}
+message.not_owned.name=¡No eres propietario de este dinosaurio!
+message.too_young.name=¡Este dinosaurio es muy joven para cargar con ítems!
+message.set_order.name=Has mandado a tu dinosaurio a {order}.
+
+order.wander.name=Deambular
+order.sit.name=Sentarse
+order.follow.name=Seguir
+
+gui.select_order.name=Seleccionar orden
+
+status.drowning.name=Ahogándose
+status.hungry.name=Hambriento
+status.low_health.name=Bajo en vida
+status.poisoned.name=Envenenado
+status.sleepy.name=Somnoliento
+status.tamed.name=Amaestrado
+status.thirsty.name=Sediento
+
+info.triceratops.name=El Triceratops vivía en Norte América durante el Cretáceo tardío. Eran herbívoros, comiendo sobretodo palma, cícadas y helechos. Cuando crecían del todo, los Triceratops medían 9 metros de longitud y pesaban de 6 a 12 toneladas. El volante se usaba para exhibirse, mientras que los cuernos eran usados para atacar y defenderse. Los Triceratops vivían de 5 a 15 individuos dirigidos por una hembra matriarca.
+info.dilophosaurus.name=Con 7 metros de longitud, este terópodo de principios del Jurásico de Arizona fue uno de primeros predadores grandes. Tenía unas crestas en su cabeza que probablemente se usaban para exhibirse. El Dilofosaurio es venenoso y prefiere escupir veneno en los ojos de su presa. Si el veneno llega a los ojos, causa ceguera y un dolor agonizante, y eventualmente parálisis. El Dilofosaurio vivía en grupos pequeños y desorganizados (sobre los 3-10 individuos) de machos y hembras.
+info.brachiosaurus.name=El Braquiosaurio era un saurópodo gigante que vivió en Norte América. Podía crecer hasta los 26 metros de largo y unos 9 metros o más en altura, y su peso alcanzaba las 40 toneladas. Se piensa que este dinosaurio gastaba su tiempo en las copas de los árboles, alimetándose de hojas de Ginkgo, coníferas, helechos y cícadas grandes. El Braquiosaurio vivía en manadas de 2 a 15 individuos, dirigidos por un alpha que podía ser macho o hembra. Producían llamadas parecidas al sonido de una trompeta para comunicarse unos con otros.
+info.parasaurolophus.name=El Parasaurolophus era un hadrosáurido que vivía en Norte América durante el Cretáceo tardío. Medía unos 10 metros de longitud y pesaba unas dos toneladas y media. Su larga, curvada y tubular cresta colocada en su cabeza estaba hueca y era utilizada para producir sonidos. Este dinosaurio era herbívoro y como muchos otros hadrosáuridos, usaba sus molares para triturar su comida. Los Parasaurolophus viven en grupos de 5 a 50 animales, una mezcla de machos y hembras. La llamada del Parasaurolophus puede oirse desde kilometros de distancia y son muy ruidosas.
+info.tyrannosaurus.name=El Tiranosaurio Rex era un terópodo era un terópodo gigante que vivió durante en Norte América. Crecía hasta los 13 metros de longitud y pesaba 6 toneladas. Healed bite wounds from T. rex found on herbivore bones suggest that it was indeed a predator. However, it also scavenged. They led a violent lifestyle, and were fiercely territorial. T. rex is magnificent, but is not to be taken lightly!
+info.velociraptor.name=El Velociraptor era un dinosaurio terópodo pequeño que vivía en el este de Asia durante el Cretáceo tardío. Como oportunista, cazaba una gran variedad de presas desde mamíferos y reptiles pequeños hasta dinosaurios de tamaño mediano. Rápido, altamente inteligente y muy agresivo, el Velociraptor es muy difícil de cuidar. They accomplished escape artists, and have a good memory. Son artistas del escape, y tienen buena memoria. Rivalizan con el guepardo en velocidad y pueden saltar hasta 4 metros de altura.
+info.gallimimus.name=El Gallimimus era un terópodo que vivió en Mongolia durante el Cretáceo tradío. Medía de 6 a 8 metros de adultos. Preferían vivir cerca del agua, pastando vegetación y escudriñando algas. Los Gallimimus eran corredores rápidos, sin embargo, su velocidad máxima es aún desconocida. Los Gallis son animales gregarios y vivían en manadas de 10 a 100 individuos, normalmente de machos y hembras. Son extremadamente asustadizos y cualquier peligro puede causar una estampida.
